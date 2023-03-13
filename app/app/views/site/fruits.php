@@ -12,7 +12,7 @@
             <td><?= $row['sugar'] ?></td>
         </tr>
     <?php endforeach; ?>
-</table> -->
+</table>
 <?php 
 use yii\helpers\Html;
 $images_url =  Yii::getAlias('@web/assets')."/images/heart.png";
