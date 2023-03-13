@@ -1,15 +1,4 @@
-<!-- <table>
-    <tr>
-        <th>Column 1</th>
-        <th>Column 2</th>
-        <th>Column 3</th>
-        <th>Column 1</th>
-        <th>Column 2</th>
-        <th>Column 3</th>
-        <th>Column 3</th>
-        <th>Column 3</th>
-        <th>Column 3</th>
-    </tr>
+
     <?php foreach ($results as $row): ?>
         <tr>
             <td><?= $row['id'] ?></td>
